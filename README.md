@@ -5,6 +5,10 @@ GHC Internals
 -------------
 https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects
 
+Category Theory
+---------------
+https://www.schoolofhaskell.com/user/bartosz/understanding-yoneda
+
 DSLs
 ----
 http://okmij.org/ftp/tagless-final/index.html
