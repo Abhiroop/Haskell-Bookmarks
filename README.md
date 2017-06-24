@@ -27,6 +27,10 @@ https://arow.info/blog/posts/2015-07-10-servant-intro.html
 
 https://www.schoolofhaskell.com/user/konn/prove-your-haskell-for-great-safety/dependent-types-in-haskell
 
+https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html
+
+https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html
+
 Free
 ----
 http://okmij.org/ftp/Computation/free-monad.html
