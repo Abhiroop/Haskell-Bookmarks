@@ -13,6 +13,12 @@ Type Theory
 -----------
 https://pdfs.semanticscholar.org/b49e/9c2d00acd25ada608170c3c3485880261980.pdf
 
+Recursion Schemes
+-----------------
+http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
+
+https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29
+
 DSLs
 ----
 http://okmij.org/ftp/tagless-final/index.html
