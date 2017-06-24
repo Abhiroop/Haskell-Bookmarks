@@ -9,6 +9,10 @@ Category Theory
 ---------------
 https://www.schoolofhaskell.com/user/bartosz/understanding-yoneda
 
+Type Theory
+-----------
+https://pdfs.semanticscholar.org/b49e/9c2d00acd25ada608170c3c3485880261980.pdf
+
 DSLs
 ----
 http://okmij.org/ftp/tagless-final/index.html
