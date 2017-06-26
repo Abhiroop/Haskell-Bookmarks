@@ -19,7 +19,9 @@ https://www.dcc.fc.up.pt/~pbv/aulas/linguagens/peytonjones92implementing.pdf
 
 https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
 
-SICP Chap. 4 and 5
+http://library.readscheme.org/page1.html (The original Lambda Papers by Guy Steele and Gerald Sussmann)
+
+SICP Chap. 4 and 5 (Non Haskell but FP nonetheless)
 
 Recursion Schemes
 -----------------
