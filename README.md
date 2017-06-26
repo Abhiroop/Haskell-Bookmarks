@@ -13,6 +13,14 @@ Type Theory
 -----------
 https://pdfs.semanticscholar.org/b49e/9c2d00acd25ada608170c3c3485880261980.pdf
 
+Writing a Compiler
+------------------
+https://www.dcc.fc.up.pt/~pbv/aulas/linguagens/peytonjones92implementing.pdf
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
+
+SICP Chap. 4 and 5
+
 Recursion Schemes
 -----------------
 http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/
@@ -48,6 +56,7 @@ http://blog.ielliott.io/continuations-from-the-ground-up/
 Lens
 ----
 https://www.twanvl.nl/blog/haskell/cps-functional-references
+
 
 Other bookmarks
 ---------------
