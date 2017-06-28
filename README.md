@@ -35,6 +35,8 @@ http://okmij.org/ftp/tagless-final/index.html
 
 Reflection
 ----------
+http://okmij.org/ftp/Haskell/zseq.pdf 
+
 http://okmij.org/ftp/Haskell/Reflection.html
 
 Type level stuff
