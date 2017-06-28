@@ -5,6 +5,8 @@ GHC Internals
 -------------
 https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects
 
+https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/STM
+
 Category Theory
 ---------------
 https://www.schoolofhaskell.com/user/bartosz/understanding-yoneda
