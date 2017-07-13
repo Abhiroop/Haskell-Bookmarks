@@ -7,6 +7,10 @@ https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects
 
 https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/STM
 
+FRP
+---
+Yampa: https://pdfs.semanticscholar.org/5a55/13560ef9bdc444c781ad15c3e44558492759.pdf
+
 Category Theory
 ---------------
 https://www.schoolofhaskell.com/user/bartosz/understanding-yoneda
