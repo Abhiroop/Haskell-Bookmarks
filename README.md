@@ -71,4 +71,5 @@ https://www.twanvl.nl/blog/haskell/cps-functional-references
 Other bookmarks
 ---------------
 https://github.com/lotz84/haskell/blob/master/docs/monad-transformers.md
+
 http://www.haskellforall.com/2014/03/
