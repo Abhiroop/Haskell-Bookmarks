@@ -59,6 +59,8 @@ Free
 ----
 http://okmij.org/ftp/Computation/free-monad.html
 
+https://qfpl.io/posts/optimising-free-with-plated/
+
 Continuations
 -------------
 http://blog.ielliott.io/continuations-from-the-ground-up/
