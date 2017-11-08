@@ -72,7 +72,11 @@ https://www.twanvl.nl/blog/haskell/cps-functional-references
 
 Session Types
 -------------
+http://courses.cs.vt.edu/cs5204/fall09-kafura/Papers/PICalculus/Pi-Calculus-Introduction.pdf
+
 https://www.di.fc.ul.pt/~vv/papers/honda.vasconcelos.kubo_language-primitives.pdf
+
+https://www.doc.ic.ac.uk/~yoshida/multiparty/multiparty.pdf
 
 
 Other bookmarks
