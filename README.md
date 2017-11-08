@@ -70,6 +70,10 @@ Lens
 ----
 https://www.twanvl.nl/blog/haskell/cps-functional-references
 
+Session Types
+-------------
+https://www.di.fc.ul.pt/~vv/papers/honda.vasconcelos.kubo_language-primitives.pdf
+
 
 Other bookmarks
 ---------------
