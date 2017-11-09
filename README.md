@@ -78,6 +78,8 @@ https://www.di.fc.ul.pt/~vv/papers/honda.vasconcelos.kubo_language-primitives.pd
 
 https://www.doc.ic.ac.uk/~yoshida/multiparty/multiparty.pdf
 
+Session types in Haskell: http://users.eecs.northwestern.edu/~jesse/pubs/haskell-session-types/session08.pdf
+
 
 Other bookmarks
 ---------------
