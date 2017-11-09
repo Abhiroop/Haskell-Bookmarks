@@ -1,6 +1,16 @@
 # Haskell-Bookmarks
 Too much interesting haskell stuff on the web. Difficult to keep track so posting all of that here:
 
+Indexed Monad
+-------------
+http://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf
+
+https://qiita.com/kimagure/items/a0ee7313e8c7690bf3f5
+
+https://gist.github.com/pthariensflame/5054294
+
+https://gist.github.com/pthariensflame/5716594
+
 GHC Internals
 -------------
 https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/HeapObjects
