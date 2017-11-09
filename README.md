@@ -90,6 +90,8 @@ https://www.doc.ic.ac.uk/~yoshida/multiparty/multiparty.pdf
 
 Session types in Haskell: http://users.eecs.northwestern.edu/~jesse/pubs/haskell-session-types/session08.pdf
 
+Prof. Nobuko Yoshida: https://www.youtube.com/watch?v=HEg088cW528
+
 
 Other bookmarks
 ---------------
