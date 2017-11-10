@@ -3,6 +3,8 @@ Too much interesting haskell stuff on the web. Difficult to keep track so postin
 
 Indexed Monad
 -------------
+Embedding Effect Systems: https://www.youtube.com/watch?v=EVqsfQHS8R8
+
 http://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf
 
 https://qiita.com/kimagure/items/a0ee7313e8c7690bf3f5
