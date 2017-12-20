@@ -94,6 +94,9 @@ Session types in Haskell: http://users.eecs.northwestern.edu/~jesse/pubs/haskell
 
 Prof. Nobuko Yoshida: https://www.youtube.com/watch?v=HEg088cW528
 
+Associated Types, Type Families, Data Families
+----------------------------------------------
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/typefun.pdf
 
 Other bookmarks
 ---------------
